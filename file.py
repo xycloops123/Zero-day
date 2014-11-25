@@ -2,7 +2,7 @@
 # Given a Directory (i.e. /dropbox/), traverse through it and all of it's sub-directories and detect any file duplications.
 # The file names may be different but the contents may be identical.
 # Output could be a nested list output of identical files - i.e. [[/dropbox/r2, /dropbox/a1/db], ...]
-# 
+
 
 
 import os
