@@ -1,0 +1,6 @@
+scapy==2.4.5
+struct
+sys
+os
+time
+socket
